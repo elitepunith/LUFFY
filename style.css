@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Gravitas+One&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: black;
+}
+.li {
+
+    font-family: 'Gravitas One', serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+.au {
+
+    font-family:'Roboto', sans-serif;
+    font-weight: 350 ; 
+    text-align: left;
+    color: rgb(214, 222, 229);
+}
+
+.ui {
+
+    color: aliceblue;
+    text-align:left;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 29px;
+}
