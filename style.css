@@ -27,7 +27,7 @@ body {
 }
 
 img {
-    
+
     display: block;      
     margin: 30px auto;   
     width: 350px;         
@@ -39,4 +39,20 @@ img {
 
 img:hover {
     transform: scale(1.05);
+}
+
+
+ul {
+
+  color: aliceblue;
+  font-family: 'Courier New', Courier, monospace;
+  line-height: 29px;
+
+}
+
+.zo {
+
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+
 }
