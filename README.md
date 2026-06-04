@@ -21,6 +21,8 @@ A One Piece Fan page !
 
 ![alt text](<Screenshot 2026-05-18 180811.png>)
 
+![alt text](image.png)
+
 ### Credit 
 
 1. Wikipedia 
