@@ -15,6 +15,7 @@ A One Piece Fan page !
 4. added a one piece music.
 5. hyperlinks to wikipedia.
 6. pics in very page.
+7. Custom Cursor and pointer.
 
 ### Preview 
 
