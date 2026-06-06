@@ -9,9 +9,9 @@ A One Piece Fan page !
 
 ### Features
 
-1. Hower animation & flex boxes.
+1. Hower animation.
 2. B & W theme project.
-3. each charcter has a page.
+3. each charcter has a page with specfic icon .
 4. added a one piece music.
 5. hyperlinks to wikipedia.
 6. pics in very page.
@@ -27,6 +27,7 @@ A One Piece Fan page !
 
 1. Wikipedia 
 2. Google 
+3. Onepeice Wiki 
 
 ### Author 
 elitepunith 
