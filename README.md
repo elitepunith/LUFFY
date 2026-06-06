@@ -12,10 +12,9 @@ A One Piece Fan page !
 1. Hower animation.
 2. B & W theme project.
 3. each charcter has a page with specfic icon .
-4. added a one piece music.
-5. hyperlinks to wikipedia.
-6. pics in very page.
-7. Custom Cursor and pointer.
+4. hyperlinks to wikipedia.
+5. pics in very page.
+6. Custom Cursor and pointer.
 
 ### Preview 
 
